@@ -2,12 +2,15 @@
 
 ## Screenshots<br>
 ###1、Refreshing<br>
-![](https://github.com/JustinRoom/XRecyclerViewLayout/blob/master/screenshots/refreshing.gif)
+![](https://github.com/JustinRoom/XRecyclerViewLayout/blob/master/screenshots/refreshing.gif)<br>
 
-###2、Loading more<br>
+###2、Pull down to refresh<br>
+![](https://github.com/JustinRoom/XRecyclerViewLayout/blob/master/screenshots/pull_refreshing.gif)
+
+###3、Loading more<br>
 ![](https://github.com/JustinRoom/XRecyclerViewLayout/blob/master/screenshots/loading_more.gif)
 
-###3、No more<br>
+###4、No more<br>
 ![](https://github.com/JustinRoom/XRecyclerViewLayout/blob/master/screenshots/no_more.gif)
 
 ## Useage<br>
