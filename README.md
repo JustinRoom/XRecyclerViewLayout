@@ -2,13 +2,13 @@
 
 ## Screenshots<br>
 ###1、Refreshing<br>
-![](https://github.com/JustinRoom/XRecyclerViewLayout/blob/master/screenshots/device-2016-08-13-133532.jpg)
+![](https://github.com/JustinRoom/XRecyclerViewLayout/blob/master/screenshots/refreshing.gif)
 
 ###2、Loading more<br>
-![](https://github.com/JustinRoom/XRecyclerViewLayout/blob/master/screenshots/device-2016-08-13-164204.jpg)
+![](https://github.com/JustinRoom/XRecyclerViewLayout/blob/master/screenshots/loading_more.gif)
 
 ###3、No more<br>
-![](https://github.com/JustinRoom/XRecyclerViewLayout/blob/master/screenshots/device-2016-08-13-133856.jpg)
+![](https://github.com/JustinRoom/XRecyclerViewLayout/blob/master/screenshots/no_more.gif)
 
 ## Useage<br>
 ###1、activity_xrecycler.xml<br>
