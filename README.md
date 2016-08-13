@@ -183,5 +183,5 @@ public class XRecyclerActivity extends AppCompatActivity {
 ####public void setPullRefreshEnabled(boolean enabled)
 ####public void setLoadingMoreEnabled(boolean enabled)
 
-##[XRecyclerView](https://github.com/jianghejie/XRecyclerView)
-https://github.com/jianghejie/XRecyclerView
+##XRecyclerView
+[https://github.com/jianghejie/XRecyclerView](https://github.com/jianghejie/XRecyclerView)
