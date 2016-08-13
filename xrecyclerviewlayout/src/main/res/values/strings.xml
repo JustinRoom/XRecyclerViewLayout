@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">XRecyclerViewLayout</string>
+
+    <string name="header_hint_pull">Pull to refresh.</string>
+    <string name="header_hint_release">Release to start refresh.</string>
+    <string name="header_hint_refreshing">Refreshing&#8230;</string>
+    <string name="header_hint_refresh_done">Refresh done.</string>
+    <string name="header_hint_last_time">Last update：</string>
+
+    <string name="footer_hint_loading">Loading&#8230;</string>
+    <string name="footer_hint_load_done">Loaded successfully.</string>
+    <string name="footer_hint_no_more">No more to be loaded.</string>
+</resources>

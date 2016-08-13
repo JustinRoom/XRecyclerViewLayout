@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="head_view_max_height">80dp</dimen>
+    <dimen name="textandiconmargin">10dp</dimen>
+
+</resources>

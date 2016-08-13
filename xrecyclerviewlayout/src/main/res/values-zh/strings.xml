@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="header_hint_pull">下拉刷新</string>
+    <string name="header_hint_release">释放刷新</string>
+    <string name="header_hint_refreshing">正在刷新...</string>
+    <string name="header_hint_refresh_done">刷新成功.</string>
+    <string name="header_hint_last_time">最后刷新时间：</string>
+
+    <string name="footer_hint_loading">正在加载...</string>
+    <string name="footer_hint_load_done">加载成功.</string>
+    <string name="footer_hint_no_more">没有更多了.</string>
+
+</resources>
