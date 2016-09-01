@@ -1,6 +1,4 @@
 <resources>
-    <string name="app_name">XRecyclerViewLayout</string>
-
     <string name="header_hint_pull">Pull to refresh.</string>
     <string name="header_hint_release">Release to start refresh.</string>
     <string name="header_hint_refreshing">Refreshing&#8230;</string>
