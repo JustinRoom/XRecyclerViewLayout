@@ -2,13 +2,16 @@
 
 ## Screenshots<br>
 ###1、Refreshing<br>
-![](https://github.com/JustinRoom/XRecyclerViewLayout/blob/master/screenshots/device-2016-08-13-133532.jpg)
+![](https://github.com/JustinRoom/XRecyclerViewLayout/blob/master/screenshots/refreshing.gif)<br>
 
-###2、Loading more<br>
-![](https://github.com/JustinRoom/XRecyclerViewLayout/blob/master/screenshots/device-2016-08-13-164204.jpg)
+###2、Pull down to refresh<br>
+![](https://github.com/JustinRoom/XRecyclerViewLayout/blob/master/screenshots/pull_refreshing.gif)
 
-###3、No more<br>
-![](https://github.com/JustinRoom/XRecyclerViewLayout/blob/master/screenshots/device-2016-08-13-133856.jpg)
+###3、Loading more<br>
+![](https://github.com/JustinRoom/XRecyclerViewLayout/blob/master/screenshots/loading_more.gif)
+
+###4、No more<br>
+![](https://github.com/JustinRoom/XRecyclerViewLayout/blob/master/screenshots/no_more.gif)
 
 ## Useage<br>
 ###1、activity_xrecycler.xml<br>
@@ -179,3 +182,6 @@ public class XRecyclerActivity extends AppCompatActivity {
 ####public void isHaveMore(boolean haveMore)
 ####public void setPullRefreshEnabled(boolean enabled)
 ####public void setLoadingMoreEnabled(boolean enabled)
+
+##XRecyclerView
+[https://github.com/jianghejie/XRecyclerView](https://github.com/jianghejie/XRecyclerView)
